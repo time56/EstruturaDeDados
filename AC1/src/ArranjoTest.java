@@ -14,7 +14,7 @@ class ArranjoTest {
 		//Testar se o maior é 940
 		assertEquals(940, a.maior(), "o maior é 940");
 		
-		//Testar se a soma é 7540
+		//Testar se a soma é 7040
 		assertEquals(7540, a.soma(), "a soma é 7540");
 		
 		//Testa a quantidade de vezes que o número 3 aparece

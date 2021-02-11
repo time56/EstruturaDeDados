@@ -3,7 +3,7 @@ public class Arranjo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		
 	}
 
 	public Integer menor() {
@@ -24,4 +24,5 @@ public class Arranjo {
 	//teste Raquel 123
 	//teste Raquel 456
 	//teste Felipe
+	//Se não for eu tranco
 }

@@ -11,6 +11,11 @@ public class Arranjo {
 		return null;
 	}
 
+	public Integer maior() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
 	public Integer soma() {
 		// TODO Auto-generated method stub
 		return null;
@@ -20,9 +25,4 @@ public class Arranjo {
 		// TODO Auto-generated method stub
 		return null;
 	}
-	
-	//teste Raquel 123
-	//teste Raquel 456
-	//teste Felipe
-	//Se não for eu tranco
 }

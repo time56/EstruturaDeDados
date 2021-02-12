@@ -1,4 +1,3 @@
-
 public class Arranjo {
 
 	public static void main(String args[]) {
@@ -29,10 +28,14 @@ public class Arranjo {
 		return soma;
 	}
 
-	public Integer repeticoes(int i) {
-		// TODO Auto-generated method stub
-		return null;
+	public Integer repeticoes(int item) {
+		int[] a = {940, 880, 830, 790, 750, 660, 650, 590, 510, 940}
+		int contador = 0;
+		for(int i = 0; i < a.length; i++) {
+			if(a[i] == item) {
+				contador += 1
+			}
+		}
+		return contador;
 	}
 }
-
-
